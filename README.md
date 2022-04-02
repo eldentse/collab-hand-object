@@ -4,4 +4,6 @@ This repo contains model, demo, training codes for our paper: "Collaborative Lea
 
 [[Project](https://eldentse.github.io/collab-hand-object/)]
 
+<img src="teaser_v1.png">
+
 The paper and code will be publicly available upon the main conference.
